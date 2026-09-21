@@ -1,0 +1,6 @@
+{
+  "name": "CH.N.S. VijayKumar - Portfolio",
+  "description": "Modern portfolio website of CH.N.S. VijayKumar featuring dynamic project filtering, dark mode toggle, ServiceNow CAD/CSA certifications, and full-stack projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
